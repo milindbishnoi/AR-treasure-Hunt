@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7112F4A6-2628-E73E-CDB6-87C1A7F9C224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaScripts", "VuforiaScripts.csproj", "{0B2FB7EE-9D18-40CE-2B04-B466C236F22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaEditorScripts", "VuforiaEditorScripts.csproj", "{5A4A5FE0-1177-B509-C9E1-05B529E2AA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7112F4A6-2628-E73E-CDB6-87C1A7F9C224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7112F4A6-2628-E73E-CDB6-87C1A7F9C224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7112F4A6-2628-E73E-CDB6-87C1A7F9C224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7112F4A6-2628-E73E-CDB6-87C1A7F9C224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2FB7EE-9D18-40CE-2B04-B466C236F22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2FB7EE-9D18-40CE-2B04-B466C236F22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2FB7EE-9D18-40CE-2B04-B466C236F22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2FB7EE-9D18-40CE-2B04-B466C236F22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4A5FE0-1177-B509-C9E1-05B529E2AA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4A5FE0-1177-B509-C9E1-05B529E2AA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4A5FE0-1177-B509-C9E1-05B529E2AA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4A5FE0-1177-B509-C9E1-05B529E2AA94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

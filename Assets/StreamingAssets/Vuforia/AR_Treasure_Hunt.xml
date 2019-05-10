@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Jhonny" size="6.000000 9.589520" />
+    <ImageTarget name="Chairman" size="6.000000 3.102244" />
+    <ImageTarget name="R-01" size="6.000000 3.905927" />
+    <ImageTarget name="20NOTE" size="6.000000 2.595000" />
+    <ImageTarget name="50NOTE" size="6.000000 4.043077" />
+    <ImageTarget name="10NOTE" size="6.000000 2.902500" />
+    <ImageTarget name="YMCAMAP3" size="6.000000 8.036161" />
+    <ImageTarget name="YMCAMAP2" size="6.000000 8.652361" />
+    <ImageTarget name="YMCAMAP1" size="6.000000 8.841689" />
+    <ImageTarget name="goku" size="6.000000 11.813295" />
+    <ImageTarget name="TPO" size="6.000000 3.834320" />
+    <ImageTarget name="YMCALOGO" size="6.000000 5.834101" />
+    <ImageTarget name="Final" size="6.000000 10.833608" />
+    <ImageTarget name="electricalChowk" size="6.000000 4.204986" />
+    <ImageTarget name="MotherDairy" size="6.000000 2.210526" />
+    <ImageTarget name="LaxmIMata" size="6.000000 5.457831" />
+    <ImageTarget name="dexterlaboratory" size="6.000000 10.919540" />
+    <ImageTarget name="FlintStone" size="6.000000 11.295890" />
+    <ImageTarget name="PinkPAnther" size="6.000000 12.118361" />
+    <ImageTarget name="RogerFredrer" size="6.000000 8.000000" />
+    <ImageTarget name="BAsketBall" size="6.000000 8.000000" />
+    <ImageTarget name="MARY_KOM" size="6.000000 7.616185" />
+    <ImageTarget name="RAM_LAKHAN" size="6.000000 8.236025" />
+    <ImageTarget name="TEERANGA" size="6.000000 8.595674" />
+    <ImageTarget name="DEEWAR" size="6.000000 9.724138" />
+    <ImageTarget name="Aloknath" size="6.000000 8.097222" />
+    <ImageTarget name="powerpuffgirls" size="6.000000 9.098901" />
+    <ImageTarget name="Neki_ki_diwaar" size="6.000000 1.537403" />
+    <ImageTarget name="PAYTM" size="6.000000 11.875776" />
+    <ImageTarget name="MechNext" size="6.000000 4.441760" />
+    <ImageTarget name="A10Photostate" size="6.000000 1.984772" />
+  </Tracking>
+</QCARConfig>
